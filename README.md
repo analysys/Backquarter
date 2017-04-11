@@ -1,4 +1,4 @@
-# Kafka Message Synchronization (data_sync)
+# Backquarter (Kafka Message Synchronization)
 
 ![](process.png)
 
