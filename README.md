@@ -1,3 +1,4 @@
 # data_sync
-同步Ucloud上的Kafka消息到IDC机房
+# Kafka消息同步
 ![](process.png)
+同步Ucloud上的Kafka消息到IDC机房
