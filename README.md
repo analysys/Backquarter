@@ -13,3 +13,6 @@
  - Consumer.java: 消费者
  - ProducerFromFile.java: 生产者
 
+## 脚本
+ - script/snappy_file.py: 文件压缩/解压脚本
+ - script/synch_file.py: 文件传输脚本
